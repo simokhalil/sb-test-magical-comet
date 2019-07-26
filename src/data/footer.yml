@@ -1,6 +1,7 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+---
+content: "&copy; Kelyo. All rights reserved."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: By Khalil EL ISMAILI
+  url: https://www.kelyo.fr
+  new_window: true
 has_social: true
