@@ -37,7 +37,7 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/2019-04-24-libris-theme.md
-- src/pages/posts/2019-03-10-conf.md
 - src/pages/posts/2018-01-15-function-of-design .md
+- src/pages/posts/2019-03-10-conf.md
+- src/pages/posts/2019-04-24-libris-theme.md
 - src/pages/posts/2019-05-27-community.md
